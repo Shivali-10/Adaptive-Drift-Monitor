@@ -8,3 +8,6 @@ scipy
 joblib
 python-dotenv
 requests
+matplotlib
+seaborn
+streamlit
